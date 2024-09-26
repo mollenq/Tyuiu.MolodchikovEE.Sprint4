@@ -24,13 +24,19 @@ namespace Tyuiu.MolodchikovEE.Sprint4.Task0.V22
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
+
+            int[] array = { 9, 5, 7, 4, 5, 3, 7, 8, 9, 1 };
+            Console.WriteLine(array);
+
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
             DataService ds = new DataService();
 
-            var result = ds.YOURFUNCTION();
+
+            int result = ds.GetSumOddArrEl(array);
+
             Console.WriteLine(result);
             Console.ReadKey();
         }
