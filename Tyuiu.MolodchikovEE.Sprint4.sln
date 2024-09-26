@@ -45,6 +45,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MolodchikovEE.Sprint4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MolodchikovEE.Sprint4.Task6.V15.Test", "Tyuiu.MolodchikovEE.Sprint4.Task6.V15.Test\Tyuiu.MolodchikovEE.Sprint4.Task6.V15.Test.csproj", "{11FC4FC9-0E71-42EA-8AA8-F93B39B2D111}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MolodchikovEE.Sprint4.Task7.V12.Lib", "Tyuiu.MolodchikovEE.Sprint4.Task7.V12.Lib\Tyuiu.MolodchikovEE.Sprint4.Task7.V12.Lib.csproj", "{341709C3-FFB6-49C6-9B23-30D96EA3D526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MolodchikovEE.Sprint4.Task7.V12", "Tyuiu.MolodchikovEE.Sprint4.Task7.V12\Tyuiu.MolodchikovEE.Sprint4.Task7.V12.csproj", "{EC182F8C-6E0C-46A8-812B-BA82768DB4FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MolodchikovEE.Sprint4.Task7.V12.Test", "Tyuiu.MolodchikovEE.Sprint4.Task7.V12.Test\Tyuiu.MolodchikovEE.Sprint4.Task7.V12.Test.csproj", "{038F8B54-7EFB-439B-AEF1-BD8291BBB58E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +144,17 @@ Global
 		{11FC4FC9-0E71-42EA-8AA8-F93B39B2D111}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11FC4FC9-0E71-42EA-8AA8-F93B39B2D111}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11FC4FC9-0E71-42EA-8AA8-F93B39B2D111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341709C3-FFB6-49C6-9B23-30D96EA3D526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341709C3-FFB6-49C6-9B23-30D96EA3D526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341709C3-FFB6-49C6-9B23-30D96EA3D526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341709C3-FFB6-49C6-9B23-30D96EA3D526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC182F8C-6E0C-46A8-812B-BA82768DB4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC182F8C-6E0C-46A8-812B-BA82768DB4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC182F8C-6E0C-46A8-812B-BA82768DB4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC182F8C-6E0C-46A8-812B-BA82768DB4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038F8B54-7EFB-439B-AEF1-BD8291BBB58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038F8B54-7EFB-439B-AEF1-BD8291BBB58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038F8B54-7EFB-439B-AEF1-BD8291BBB58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038F8B54-7EFB-439B-AEF1-BD8291BBB58E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
